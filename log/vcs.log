@@ -1,0 +1,27 @@
+Command: vcs -full64 -debug_all -notice -Mupdate -sverilog -P /home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/novas.tab \
+/home/synopsys/verdi/Verdi_O-2018.09-SP2/share/PLI/VCS/LINUX64/pli.a +incdir=../tb \
+-o top_tb -l ./log/vcs.log -f ./file.f
+                         Chronologic VCS (TM)
+        Version O-2018.09-1_Full64 -- Wed Sep 21 08:36:53 2022
+               Copyright (c) 1991-2018 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+
+Warning-[UNK_COMP_ARG] Unknown compile time plus argument used
+  Unknown compile time plus argument 'incdir=../tb' is ignored.
+
+ + use `+plusarg_save' to bind in runtime plusargs;
+ + use `+plusarg_ignore' to suppress this message.
+
+Warning-[DEBUG_DEP] Option will be deprecated
+  The option '-debug_all' will be deprecated in a future release.  Please use 
+  '-debug_acc+all -debug_region+cell+encrypt' instead.
+
+The design hasn't changed and need not be recompiled. 
+If you really want to, delete file /home/host/temp/conv/top_tb.daidir/.vcs.timestamp and
+run VCS again.
+

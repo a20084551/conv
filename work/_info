@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\modelsim_ase\win32aloem
+vconv
+!i10b 1
+Z1 !s100 T=0H;>]HeGFT]Ek2HCM_31
+Z2 IKg6gI5dz8o86^fCB_]Hi83
+Z3 VZj_i7M;LQ0]2O]7bzM;dc1
+Z4 dC:\Users\a2008\Desktop\conv
+Z5 w1664661670
+Z6 8./conv.v
+Z7 F./conv.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1664661931.136000
+!s107 ./define/define.v|./conv.v|
+Z9 !s90 -reportprogress|300|-work|work|./conv.v|
+!s101 -O0
+Z10 o-work work -O0
+vconv_tb
+Z11 !s100 ke07jK7BRa0NVdBAQon5<0
+Z12 IanMaK>Gf;jkc2zm_>5Tfk0
+Z13 V_R@RI:]la5YUO[RKL4W>T0
+R4
+R5
+Z14 8./conv_tb.v
+Z15 F./conv_tb.v
+L0 8
+R8
+r1
+31
+Z16 !s90 -reportprogress|300|-work|work|./conv_tb.v|
+R10
+!i10b 1
+!s85 0
+Z17 !s108 1664661931.069000
+Z18 !s107 ./define/define.v|./conv_tb.v|
+!s101 -O0
